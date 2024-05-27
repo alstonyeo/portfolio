@@ -1,28 +1,26 @@
 # Computer Engineer
 
-### EDUCATION
- Ngee Ann Polytechnic
- 2022-2025
-- Diploma in Electronic & Computer Engineering
-- Specialisation in Computer Networks (CPN)
-- Minor in Data Analytics & AI
-- Diploma Plus in Advanced Engineering Mathematics (CAEM)
+#### Proficient in: Python, C, C#, AWS, Linux
 
-### WORK EXPERIENCE
-Corpus Development & Management Intern at TL@NTU (NP Y3 Internship)
-Mar - Aug 2024
+## Education
+- Electronic & Computer Engineering, Computer Networks | Ngee Ann Polytechnic (_2022 - Present_)								       		
 
-### CO-CURRICULAR EXPERIENCE 
-Ngee Ann Polytechnic
-- Member of Badminton Club (Apr 2022 - Feb 2025)
-- Admin & Publicity Assistant Committee of Badminton Club (Nov 2022 - Feb 2024)
-- Student Representative for ECE Course Experience Dialogue (Jan 2023)
-- Organiser for CCA Fiesta (Apr 2023)
-- Student Helper for Inter School Games 2023 - Badminton (Jul 2023 - Aug 2023)
-- Participant of SOE Overseas Immersion Programme (OIP) trip to Hanoi, Vietnam (Sep 2023)
-- Participant of Temasek Foundation Specialists' Community Action & Leadership Exchange (TF SCALE) (Feb 2024 - Mar 2024)
+## Work Experience
+**Corpus Development & Management Intern at TL@NTU (_Mar 2024 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-### CERTIFICATES & ACHIEVEMENTS
+## Co-Curricular Experience
+**Ngee Ann Polytechnic**
+- Member of Badminton Club (_Apr 2022 - Feb 2025_)
+- Admin & Publicity Assistant Committee of Badminton Club (_Nov 2022 - Feb 2024_)
+- Student Representative for ECE Course Experience Dialogue (_Jan 2023_)
+- Organiser for CCA Fiesta (_Apr 2023_)
+- Student Helper for Inter School Games 2023 - Badminton (_Jul 2023 - Aug 2023_)
+- Participant of SOE Overseas Immersion Programme (OIP) trip to Hanoi, Vietnam (_Sep 2023_)
+- Participant of Temasek Foundation Specialists' Community Action & Leadership Exchange (TF SCALE) (_Feb 2024 - Mar 2024_)
+
+## Certificates & Achievements
 - AWS Academy Graduate - AWS Acadamey Cloud Foundations
 - CCNA: Introduction to Networks
 - CCNA: Switching, Routing, and Wireless Essentials
@@ -30,28 +28,22 @@ Ngee Ann Polytechnic
 - Predictive Analytics Essential Training: Data Mining
 - Data Cleaning in Python Essential Training
 - Artifical Intelligence Foundations: Machines
-  
-### SKILLS
-Technical Skills:
-- C Programming
-- C# Programming
-- Python Programming
-- AutoCAD
-- Arduino
-- Breadboarding
-- Soldering
-- Cisco networking
-- Cloud Computing
-- Basic Linux
-- Data Analytics
-- Minitab
 
-Soft Skills:
+## Skills
+**Technical Skills:**
+- AWS Academy Graduate - AWS Acadamey Cloud Foundations
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing, and Wireless Essentials
+- Python for Data Visualisation
+- Predictive Analytics Essential Training: Data Mining
+- Data Cleaning in Python Essential Training
+- Artifical Intelligence Foundations: Machines
+
+**Soft Skills:**
 - Problem Solving
 - Critical Thinking
 - Leadership
 - Teamwork
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
