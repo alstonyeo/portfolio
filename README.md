@@ -1,8 +1,8 @@
 # Computer Engineer
 
 ### EDUCATION
-## Ngee Ann Polytechnic
-# 2022-2025
+ Ngee Ann Polytechnic
+ 2022-2025
 - Diploma in Electronic & Computer Engineering
 - Specialisation in Computer Networks (CPN)
 - Minor in Data Analytics & AI
